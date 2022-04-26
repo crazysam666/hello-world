@@ -1,2 +1,2 @@
 # hello-world
-Меня зовут Sam и я хотел бы менять Мир к лучшему, с помощью улучшения наших технологий обмена информацией, ускорения процесса обработки информации и улучшения качества взаимодействия человека и ЭВМ.
+My name is Sam and I would like to change the World for the better by improving our information exchange technologies, speeding up the process of processing information and improving the quality of human-computer interaction.
